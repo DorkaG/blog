@@ -1,0 +1,110 @@
+{
+  "posts": [
+    {
+      "title": "Vzorový post",
+      "author": "XYZ",
+      "date": "7. prosince 2020",
+      "perex": "Proin in tellus sit amet nibh dignissim sagittis. Aenean placerat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "content": "<p> Proin in tellus sit amet nibh dignissim sagittis. Aenean placerat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </p> <p> Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin in tellus sit amet nibh dignissim sagittis. </p> <p> Aenean placerat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin in tellus sit amet nibh dignissim sagittis. Aenean placerat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin in tellus sit amet nibh dignissim sagittis. Aenean placerat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin in tellus sit amet nibh dignissim sagittis. Aenean placerat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin in tellus sit amet nibh dignissim sagittis. Aenean placerat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </p>",
+      "image": "",
+      "category": 1,
+      "special": true,
+      "likes": 66,
+      "id": 1
+    },
+    {
+      "title": "Druhý vzorový post",
+      "author": "BBB",
+      "date": "9. prosince 2020",
+      "perex": "Proin in tellus sit amet nibh dignissim sagittis. Aenean placerat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "content": "Proin in tellus sit amet nibh dignissim sagittis. Aenean placerat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin in tellus sit amet nibh dignissim sagittis. Aenean placerat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "image": "",
+      "category": 2,
+      "special": false,
+      "likes": 50,
+      "id": 2
+    },
+    {
+      "title": "Treti vzorový post",
+      "author": "NNNNNNNN",
+      "date": "18. prosince 2020",
+      "perex": "Proin in tellus sit amet nibh dignissim sagittis. Aenean placerat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "content": "<p>blablablabla</p><p>blablablablavvvvvvv</p><p>blablablablavvvvvvvvvv</p><p>blablablablavvvv</p><p>blablablablavvvv</p>",
+      "image": "",
+      "category": 3,
+      "special": false,
+      "likes": 127,
+      "id": 3
+    },
+    {
+      "title": "Ctvrty vzorový post",
+      "author": "NNNNNNNN",
+      "date": "18. prosince 2020",
+      "perex": "Proin in tellus sit amet nibh dignissim sagittis. Aenean placerat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "content": "<p>blablablabla</p><p>blablablablavvvvvvv</p><p>blablablablavvvvvvvvvv</p><p>blablablablavvvv</p><p>blablablablavvvv</p>",
+      "image": "",
+      "category": 4,
+      "special": false,
+      "likes": 54,
+      "id": 4
+    },
+    {
+      "title": "Paty vzorový post",
+      "author": "NNNNNNNN",
+      "date": "18. prosince 2020",
+      "perex": "Proin in tellus sit amet nibh dignissim sagittis. Aenean placerat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "content": "<p>blablablabla</p><p>blablablablavvvvvvv</p><p>blablablablavvvvvvvvvv</p><p>blablablablavvvv</p><p>blablablablavvvv</p>",
+      "image": "",
+      "category": 5,
+      "special": false,
+      "likes": 103,
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "name": "World",
+      "id": 1
+    },
+    {
+      "name": "Technology",
+      "id": 2
+    },
+    {
+      "name": "Design",
+      "id": 3
+    },
+    {
+      "name": "Culture",
+      "id": 4
+    },
+    {
+      "name": "Business",
+      "id": 5
+    },
+    {
+      "name": "Politics",
+      "id": 6
+    },
+    {
+      "name": "Science",
+      "id": 7
+    },
+    {
+      "name": "Health",
+      "id": 8
+    },
+    {
+      "name": "Style",
+      "id": 9
+    },
+    {
+      "name": "Travel",
+      "id": 10
+    },
+    {
+      "name": "hhhh",
+      "id": 11
+    }
+  ]
+}
